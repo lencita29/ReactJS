@@ -17,7 +17,7 @@ Lifecycle methods are special methods in class components that are called at dif
 Hooks are a new addition in React that allows you to use state and other React features without writing a class.
 
 - **useState:** A hook that allows you to add state to functional components.
-  **useEffect:** A hook that allows you to perform side effects in functional components. It replaces lifecycle methods like `componentDidMount`, `componentDidUpdate`, and `componentWillUnmount`.
+- **useEffect:** A hook that allows you to perform side effects in functional components. 
 ## Available Scripts
 
 In the project directory, you can run:
